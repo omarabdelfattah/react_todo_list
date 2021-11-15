@@ -1,0 +1,58 @@
+
+.div1{
+background-color: white;
+border-radius: 4px;
+box-shadow: 0 1px 4px black;
+margin-left: 50px;
+padding: 20px;
+width: 300px;   
+}
+.Dbtn{
+ background-color:darkmagenta ;
+ color: cornsilk;
+ border-radius: 3px;
+ padding: 10px;
+ width: 100px;
+margin-left: 200px;
+}
+.Conbtn{
+  background-color:darkmagenta ;
+  color: cornsilk;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100px;
+  margin: 10px;
+}
+.Canbtn{
+  background-color:white ;
+  color: mediumvioletred;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100px;
+  margin: 10px;
+}
+.div2{
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px black;
+  margin-left: 50px;
+  padding: 20px;
+  width: 300px; 
+  height: 150px; 
+  position: fixed;
+  top: 20vh;
+  left: calc(50% - 15rem);
+ }
+ .div3{
+     text-align: center;
+ }
+ .backdrop{
+   position: fixed;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: rgba(0, 0, 0, 0.75);
+ }
